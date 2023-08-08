@@ -1,0 +1,12 @@
+html,
+body {
+	@apply min-h-screen;
+}
+
+#__nuxt {
+	@apply min-h-screen flex flex-col;
+}
+
+#content {
+	@apply flex-1;
+}
